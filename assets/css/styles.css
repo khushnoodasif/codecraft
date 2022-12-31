@@ -9,7 +9,13 @@
  * @license   https://themeforest.net/licenses/standard
  *
  */
-            
+ 
+.logo-svg {
+    width: 300px;
+    border: 1px solid #00c874;
+    font-size: 100px;
+}
+
 
 .breadcrumb {
     text-transform: capitalize;
